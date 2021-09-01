@@ -12,20 +12,20 @@ The mainfocus of this project was to sort all web-file in MVC.
 MVC is a design pattern used to decouple user-interface (view), data (model), and application logic (controller). 
 This pattern helps to achieve separation of concerns.
 
+![Mainpage](READMEfile/mainpage.jpg)
+
 ## Features
 
 On this page one can sign up with very own credential. 
 These credentials will be hashed and stored on a integrated database.
+
+![loginpage](READMEfile/loginpage.jpg)
 
 After Login the "login" button changes to "logout".
 When the user has Admin rights, it is possible to see all logins of this page.
 
 In case a user forgets his credentials, one is able to reset the passwort.
 A mail will be sent to the Email, the user used to login.
-
-![Mainpage](READMEfile/mainpage.jpg)
-
-![loginpage](READMEfile/loginpage.jpg)
 
 ![resetPWpage](READMEfile/forgotpw.jpg)
 
