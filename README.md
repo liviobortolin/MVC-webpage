@@ -24,8 +24,10 @@ In case a user forgets his credentials, one is able to reset the passwort.
 A mail will be sent to the Email, the user used to login.
 
 ![Mainpage](READMEfile/mainpage.jpg)
+
 ![loginpage](READMEfile/loginpage.jpg)
-![resetPWpage](READMEfile/forgotpwpage.jpg)
+
+![resetPWpage](READMEfile/forgotpw.jpg)
 
 ## Authors
 
